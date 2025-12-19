@@ -53,11 +53,39 @@ Here are some ideas to get you started:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
 ![](https://github-contributor-stats.vercel.app/api?username=arcstar77&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=arcstar77&icon=10&color=0)](https://visitcount.itsvg.in)
 
+---
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+
+<img src="https://raw.githubusercontent.com/arcstar77/arcstar77/output/snake.svg" alt="Snake animation" />
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arcstar77/arcstar77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcstar77/arcstar77/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arcstar77/arcstar77/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+</div>
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
