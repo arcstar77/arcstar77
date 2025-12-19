@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td style="border: none; vertical-align: middle;">
-        <h2 style="margin: 0;">💫 Hi there!, I'm</h2>
+        <h2 style="margin: 0;">Hi there!, I'm</h2>
       </td>
       <td style="border: none; vertical-align: middle;">
         <a href="https://github.com/arcstar77">
